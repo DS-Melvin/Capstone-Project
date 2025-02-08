@@ -1,11 +1,11 @@
-## DS-600 Data Mining Capstone Project  
+## DS-670 Capstone Project  
 ---
 ### Saint Peter's University  
 ---
 This repository contains all the files and resources used to complete my project. Codes and Jupyter notebook containing the step-by-step guide of data mining process.  
 This readme.md will be updated as the repository is updated.
 ---
-#### **Title - Machine Learning-assisted Urban Farming Optimization (Crop Recommendation)**
+#### **Title - Crop Yield Prediction using Machine Learning (Crop Recommendation System)**
 ---
 ### Overview:
 ---
